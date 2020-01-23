@@ -3,9 +3,9 @@
 
 
 ## Table of Contents
-* [General Info] (#general-info)
-* [Technologies] (#technologies)
-* [Features] (#features)
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [Features](#features)
 
 ## General Info
 A part of diploma thesis focused on automotive simulation and design.
