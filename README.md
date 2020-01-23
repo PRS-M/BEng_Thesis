@@ -8,9 +8,9 @@
 * [Features](#features)
 
 ## General Info
-A part of diploma thesis focused on automotive simulation and design.
-System combining magnetorheological dampers and air suspension.
-Not great, ~not terrible~ rather terrible in terms of code.
+A part of diploma thesis focused on automotive simulation and design.\
+System combining magnetorheological dampers and air suspension.\
+Not great, ~not terrible~ rather terrible in terms of code.\
 Though, the code itself was not the main focus at the time.
 
 ## Technologies
