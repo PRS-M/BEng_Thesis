@@ -21,6 +21,7 @@ Though, the code itself was not the main focus at the time.
 1. Arduino board utilising data collected from accelerometer and rangefinder.
 2. LCD Display showing real-time values and current setup.
 3. LEDs showing suspension modes.
-4. Console app retreiving and parsing data from *.txt files  (AMESim Simulation outcome simulating actual driving conditions - road texture etc.).
+4. Console app retreiving and parsing data from *.txt files  
+(AMESim Simulation outcome simulating actual driving conditions - road texture etc.).
 5. USB serial communication of the console app with Arduino Board simulating actual driving conditions.
 6. LCD screen showing values (air pressure) in 4 air springs and stiffnes of the MR Dampers.
